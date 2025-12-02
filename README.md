@@ -25,3 +25,14 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Listado de remotos conectados  
+***En este apartado se pueden comprobar los repositorios remotos conectados tanto en Github como Gitlab***
+
+```
+PS C:\Users\francisco.guerrero\Desktop\proyecto-examen\backend> git remote -v
+GitLab  https://gitlab.com/franciscojose.guerrero/backend.git (fetch)
+GitLab  https://gitlab.com/franciscojose.guerrero/backend.git (push) 
+origin  https://github.com/FranKisekis/backend.git (fetch)
+origin  https://github.com/FranKisekis/backend.git (push)
+```  
