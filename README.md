@@ -25,3 +25,12 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Información gráfica
++En este apartado se muestra la información obtenida al usar el comando `git log`  
+
+```
+PS C:\Users\francisco.guerrero\Desktop\proyecto-examen\backend> git log --oneline --graph
+* a6a9343 (HEAD -> rama1_FranciscoGuerrero, origin/main, GitLab/main, rama2_FranciscoGuerrero, main) primer commit
+```  
+>Aquí indica id del commit y posición de las ramas
